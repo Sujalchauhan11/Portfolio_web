@@ -72,7 +72,7 @@ const Contact = React.forwardRef<HTMLDivElement>((_, ref) => {
                   <Linkedin size={24} />
                 </a>
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Sujalchauhan11"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-4 bg-card border border-border rounded-lg hover:border-secondary hover:bg-secondary/10 hover:text-secondary transition-all transform hover:scale-110"

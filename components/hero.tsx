@@ -65,7 +65,7 @@ export default function Hero() {
 
         <div className="flex justify-center gap-6 animate-fade-in-up" style={{ animationDelay: "0.5s" }}>
           <a
-            href="https://github.com"
+            href="https://github.com/Sujalchauhan11"
             target="_blank"
             rel="noopener noreferrer"
             className="p-3 bg-card border border-border rounded-lg hover:border-primary hover:text-primary hover:shadow-lg hover:shadow-primary/30 transition-all duration-300 transform hover:scale-110"
