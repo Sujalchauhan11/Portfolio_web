@@ -89,7 +89,7 @@ const Projects = React.forwardRef<HTMLDivElement>((_, ref) => {
 
               <div className="flex gap-4 pt-4 border-t border-border opacity-80 group-hover:opacity-100 transition-opacity duration-300">
                 <a
-                  href="#"
+                  href="https://github.com/Sujalchauhan11"
                   className="text-accent hover:text-primary transition-colors duration-300 flex items-center gap-2 text-sm font-medium group/link"
                 >
                   <Github size={16} className="group-hover/link:scale-110 transition-transform" /> Code
