@@ -35,6 +35,13 @@ const Projects = React.forwardRef<HTMLDivElement>((_, ref) => {
       features: ["EDA", "Rolling Totals", "CTEs", "DENSE_RANK", "Trend Analysis"],
       tech: ["SQL", "MySQL", "Data Analysis"],
     },
+    {
+      title: "Global Layoffs Analysis",
+      description:
+        "In-depth exploratory data analysis on 10K+ records dataset analyzing global layoff trends with rolling totals and ranking queries.",
+      features: ["EDA", "Rolling Totals", "CTEs", "DENSE_RANK", "Trend Analysis"],
+      tech: ["SQL", "MySQL", "Data Analysis"],
+    },
   ]
 
   return (
