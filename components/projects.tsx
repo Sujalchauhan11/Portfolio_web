@@ -15,6 +15,13 @@ const Projects = React.forwardRef<HTMLDivElement>((_, ref) => {
       tech: ["Node.js", "Express", "MongoDB", "React", "Tailwind CSS"],
     },
     {
+      title: "Todo Application",
+      description:
+        "A secure todo application with JWT token-based authentication, bcrypt password hashing, and a containerized full-stack architecture.",
+      features: ["JWT Authentication", "Password Hashing", "RESTful API", "Docker Compose", "Protected Routes"],
+      tech: ["Node.js", "Docker", "PostgreSQL", "Prisma ORM", "JWT"],
+    },
+    {
       title: "Bookstore CRUD API",
       description:
         "A robust REST API for managing bookstore inventory with FastAPI and PostgreSQL, featuring comprehensive data validation and ORM integration.",
